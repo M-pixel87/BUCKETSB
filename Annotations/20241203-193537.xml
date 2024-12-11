@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20241203-193537.jpg</filename>
+    <folder>BUCKETSB</folder>
+    <source>
+        <database>BUCKETSB</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>red_bucket_arch</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>505</xmin>
+            <ymin>288</ymin>
+            <xmax>1044</xmax>
+            <ymax>511</ymax>
+        </bndbox>
+    </object>
+</annotation>
